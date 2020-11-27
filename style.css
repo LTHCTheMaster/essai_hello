@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+    cursor: text;
+}
+
+p {
+    color: #5cfc4e;
+    text-align: justify;
+    cursor: vertical-text;
+    font-size: large;
+}
+
+a {
+    color: #ff9e15;
+    text-decoration: none;
+    cursor: cell;
+}
+
+h1 {
+    color: #fff;
+    cursor: wait;
+}
+
+img {
+    cursor: not-allowed;
+}
